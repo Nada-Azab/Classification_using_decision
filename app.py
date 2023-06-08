@@ -8,6 +8,7 @@ import pickle
 from tqdm import tqdm
 
 
+
 IMG_SIZE =(32,32)
 
 
